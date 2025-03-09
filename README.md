@@ -9,8 +9,9 @@
 - Windows 10
 
 ## **Objectives**
-- Create a simulated Active Directory environment with a Domain Controller and computer client for which users can log into
-  
+- Creating A-Record
+- Understanding DNS cache
+- Creating CNAME Record
 
 ---
 
