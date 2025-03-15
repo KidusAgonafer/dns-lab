@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://www.vivantio.com/wp-content/uploads/MSAD.png" alt="Project Logo" width="50%"/>
+  <img src="https://github.com/user-attachments/assets/1554666a-c615-4fde-b915-0890e0964210" alt="Project Logo" width="20%"/>
 </p>
+
 
 # DNS Lab
 
