@@ -29,7 +29,7 @@
      
 - Now we have an understanding of A-Records, log into both DC-1 and Client-1 as your domain admin account. Example: (mydomain.com\jane_admin)
 - From Client-1, open PowerShell and attempt to ping the domain name "mainframe." The ping request fails because the system cannot resolve "mainframe" into an IP address. This occurs due to the absence of a record for "mainframe" in the DNS resolution process, meaning the domain name is not mapped to any IP address in the available cache, host file, or DNS server.
-- The DNS Cache can be looked up by typing " ipconfig /displaydns "
+- The DNS Cache can be looked up by typing "ipconfig /displaydns"
 -  The DNS host file can be shown up by opening the Notepad app and clicking choosing  "run as administrator" option. Once opened click File > Change File option to "All Files".
 - Follow the file path ThisPC > Windows(C) > System32 > drivers > etc > hosts . Your screen should have something like below
   ![image](https://github.com/user-attachments/assets/855fe643-b143-40fa-9fc5-97ecb94d8342)
